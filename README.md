@@ -1,1 +1,1 @@
-# Python-Data-Analysis-
+# Python-Data-Analysis-This project aims to conduct an in-depth analysis of the Tips data set. It will use various data analysis techniques such as descriptive statistics, data visualization, and inferential statistics. The project will also include a segmentation analysis to understand the behavior of different customer groups.
